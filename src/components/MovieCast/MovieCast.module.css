@@ -1,0 +1,14 @@
+.item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.cast {
+    border-radius: 4px;
+}
+
+.details {
+    margin: 0;
+}
